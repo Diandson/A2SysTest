@@ -1,0 +1,25 @@
+.btn-w {
+  min-width: 220px;
+}
+
+.input-option{
+  max-width: 220px;
+  max-height: 30px;
+}
+
+.search-btn {
+  max-height: 30px;
+  max-width: 160px;
+}
+
+hr {
+  margin: 1rem 0;
+  color: inherit;
+  background-color: black;
+  border: 0;
+  opacity: 0.25;
+}
+
+fieldset, legend {
+  all: revert;
+}

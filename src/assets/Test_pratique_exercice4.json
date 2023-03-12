@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "annee": 2020,
+    "trimestre": 4,
+    "nature": 2,
+    "reference": "640b00f39bb3b6dc503a0212",
+    "montant": 60784,
+    "nom": "Pierce Kelly"
+  },
+  {
+    "id": 2,
+    "annee": 2021,
+    "trimestre": 4,
+    "nature": 1,
+    "reference": "640b00f3249600a398915b1e",
+    "montant": 15485,
+    "nom": "Amalia Meyer"
+  },
+  {
+    "id": 3,
+    "annee": 2019,
+    "trimestre": 2,
+    "nature": 1,
+    "reference": "640b00f3bb124bb17f72396c",
+    "montant": 86057,
+    "nom": "Clarice Hensley"
+  },
+  {
+    "id": 4,
+    "annee": 2018,
+    "trimestre": 2,
+    "nature": 1,
+    "reference": "640b00f3969ea261846a65ee",
+    "montant": 85776,
+    "nom": "Beard Mcclure"
+  },
+  {
+    "id": 5,
+    "annee": 2018,
+    "trimestre": 1,
+    "nature": 1,
+    "reference": "640b00f3165d369f90bd4851",
+    "montant": 44561,
+    "nom": "Britney Perkins"
+  },
+  {
+    "id": 6,
+    "annee": 2020,
+    "trimestre": 1,
+    "nature": 2,
+    "reference": "640b00f3191c4322ecd23a19",
+    "montant": 72452,
+    "nom": "Hardy Horn"
+  },
+  {
+    "id": 7,
+    "annee": 2019,
+    "trimestre": 1,
+    "nature": 1,
+    "reference": "640b00f369facffadbefaf2d",
+    "montant": 2366,
+    "nom": "Norris Woodard"
+  },
+  {
+    "id": 8,
+    "annee": 2019,
+    "trimestre": 1,
+    "nature": 1,
+    "reference": "640b00f3c883a27a3ebe7346",
+    "montant": 13229,
+    "nom": "Nichole Hall"
+  },
+  {
+    "id": 9,
+    "annee": 2021,
+    "trimestre": 3,
+    "nature": 1,
+    "reference": "640b00f33b60ed71a188ef98",
+    "montant": 3299,
+    "nom": "Caitlin Lawson"
+  },
+  {
+    "id": 10,
+    "annee": 2019,
+    "trimestre": 2,
+    "nature": 1,
+    "reference": "640b00f38c807a83748a4719",
+    "montant": 20990,
+    "nom": "Claudette Mercado"
+  },
+  {
+    "id": 11,
+    "annee": 2019,
+    "trimestre": 3,
+    "nature": 1,
+    "reference": "640b00f3891263cfc9b22910",
+    "montant": 52780,
+    "nom": "Suarez Morin"
+  },
+  {
+    "id": 12,
+    "annee": 2019,
+    "trimestre": 1,
+    "nature": 1,
+    "reference": "640b00f370c273183edab1e7",
+    "montant": 78743,
+    "nom": "Latoya Santiago"
+  },
+  {
+    "id": 13,
+    "annee": 2018,
+    "trimestre": 3,
+    "nature": 2,
+    "reference": "640b00f34243a29abe52770f",
+    "montant": 17460,
+    "nom": "Alvarez Fitzgerald"
+  },
+  {
+    "id": 14,
+    "annee": 2020,
+    "trimestre": 3,
+    "nature": 2,
+    "reference": "640b00f391314d939441cfbf",
+    "montant": 68759,
+    "nom": "Patton Newton"
+  },
+  {
+    "id": 15,
+    "annee": 2019,
+    "trimestre": 3,
+    "nature": 2,
+    "reference": "640b00f3da27b082cd1c16b6",
+    "montant": 6443,
+    "nom": "Baird Mendoza"
+  },
+  {
+    "id": 16,
+    "annee": 2021,
+    "trimestre": 3,
+    "nature": 1,
+    "reference": "640b00f324ccc0f7a2758709",
+    "montant": 25517,
+    "nom": "Travis Adams"
+  },
+  {
+    "id": 17,
+    "annee": 2018,
+    "trimestre": 3,
+    "nature": 1,
+    "reference": "640b00f306a0e4a836260f8b",
+    "montant": 69361,
+    "nom": "Tracey Little"
+  },
+  {
+    "id": 18,
+    "annee": 2020,
+    "trimestre": 2,
+    "nature": 2,
+    "reference": "640b00f34738590faea1e93d",
+    "montant": 36182,
+    "nom": "Rasmussen Ashley"
+  },
+  {
+    "id": 19,
+    "annee": 2019,
+    "trimestre": 1,
+    "nature": 1,
+    "reference": "640b00f396fa3384b85bde2d",
+    "montant": 33840,
+    "nom": "Jerri Tucker"
+  },
+  {
+    "id": 20,
+    "annee": 2019,
+    "trimestre": 3,
+    "nature": 2,
+    "reference": "640b00f32820b46db29fa741",
+    "montant": 35403,
+    "nom": "Lilly Burris"
+  }
+]
